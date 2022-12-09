@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/api-gateway/api-gateway.iml" filepath="$PROJECT_DIR$/api-gateway/api-gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/currency-conversion-service/currency-conversion-service.iml" filepath="$PROJECT_DIR$/currency-conversion-service/currency-conversion-service.iml" />
-      <module fileurl="file://$PROJECT_DIR$/current-exchange-service/current-exchange-service.iml" filepath="$PROJECT_DIR$/current-exchange-service/current-exchange-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/current-exchange-service/currency-exchange-service.iml" filepath="$PROJECT_DIR$/current-exchange-service/currency-exchange-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/in28Minutes.iml" filepath="$PROJECT_DIR$/.idea/in28Minutes.iml" />
       <module fileurl="file://$PROJECT_DIR$/limits-service/limits-service.iml" filepath="$PROJECT_DIR$/limits-service/limits-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/naming-server/naming-server.iml" filepath="$PROJECT_DIR$/naming-server/naming-server.iml" />
