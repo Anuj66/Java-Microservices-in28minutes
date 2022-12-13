@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class CurrencyExchangeController {
 
-    private Logger logger = LoggerFactory.getLogger(CurrencyExchangeController.class);
+    private final Logger logger = LoggerFactory.getLogger(CurrencyExchangeController.class);
 
     @Autowired
     private CurrencyExchangeRepository currencyExchangeRepository;
